@@ -1,10 +1,13 @@
 .head {
-  margin: 30px 30px;
-   padding: 30px 30px;
-   position: fixed;
-   width: 100%;
-   background-color: #fff;
-   display: flex;
+   
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 30px;
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+ 
   color: rgb(3, 3, 150);
 }
 
@@ -27,6 +30,7 @@ li{
 }
 
 .nav{
+  
   margin: 0 100px 0 auto;
 }
 
@@ -46,7 +50,7 @@ li{
  
  display: block;
  width: 50%;
- margin: 0 80px 0 auto;
+ margin: 0 0 0 auto;
  position: relative;
  top: 150px;
  
